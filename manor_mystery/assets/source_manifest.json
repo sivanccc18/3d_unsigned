@@ -1,0 +1,35 @@
+{
+  "story_assets": [
+    {
+      "name": "rochester",
+      "sha256": "1d2fc673f90084ff084d52eddcda8929c5224588dbcfd873c13b88935e73bb15",
+      "path": "assets/story/rochester.glb"
+    },
+    {
+      "name": "doctor",
+      "sha256": "5e4b87c9064b09508c3bbdbf6115fe9b60cd185967d83d87a193dec8d1827ccf",
+      "path": "assets/story/doctor.glb"
+    },
+    {
+      "name": "grace",
+      "sha256": "a679b7f2e08e94bb2df92561eaf144c775ae9020528bca0c6973cfca579deb88",
+      "path": "assets/story/grace.glb"
+    },
+    {
+      "name": "laudanum",
+      "sha256": "fd97e68e875a5055d779905f162efdb47b3800445b89cbb172984d0cd2952e13",
+      "path": "assets/story/laudanum.glb"
+    },
+    {
+      "name": "mother_diary",
+      "sha256": "57e866e97e14b286065cf7aa73f2f6ef31db024f7ae520bc0b85284e23eae2da",
+      "path": "assets/story/mother_diary.glb"
+    },
+    {
+      "name": "father_letter",
+      "sha256": "40b0cce5a86b0acb6cde73868222278ba2af8f34d8881bd65c18489539ae5b05",
+      "path": "assets/story/father_letter.glb"
+    }
+  ],
+  "license_note": "Source assets generated with Tripo (MagicLomix project); commercial license not verified."
+}

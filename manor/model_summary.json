@@ -1,0 +1,22 @@
+{
+  "rooms": 27,
+  "objects": 4869,
+  "mesh_objects": 4401,
+  "mesh_polygons": 1117710,
+  "cameras": [
+    "01 Exterior",
+    "02 Drawing room",
+    "03 Library",
+    "04 Kitchen",
+    "05 Bedroom",
+    "06 Attic",
+    "07 Garden arrival",
+    "08 Rear garden"
+  ],
+  "textures_packed": 20,
+  "floor_levels_m": [
+    0.48,
+    4.48,
+    8.48
+  ]
+}

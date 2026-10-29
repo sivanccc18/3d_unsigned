@@ -1,0 +1,20 @@
+{
+  "debateCamera": [-7.2, 2.13, 1.52],
+  "debateLook": [-7.1, 1.47, 4.6],
+  "nightSpawn": [-7.55, 4.52, 1.65],
+  "npcs": {
+    "doctor": {"height": 1.75, "day": [-9.25, 0.5, 4.7], "night": [-9.25, 0.5, 4.7], "room": "一层 · 会客厅"},
+    "rochester": {"height": 1.85, "day": [-6.45, 0.5, 4.9], "night": [-5.05, 0.5, -3.5], "room": "一层 · 书房"},
+    "grace": {"height": 1.6, "day": [-4.3, 0.5, 3.9], "night": [4.8, 0.5, -2.05], "room": "一层 · 厨房"}
+  },
+  "evidence": {
+    "laudanum": {"position": [4, 1.05, -6.3], "model": "laudanum", "height": 0.22, "approach": [4.85, 0.51, -5.65]},
+    "dosage_record": {"position": [6.95, 1.425, -3.12], "paper": true, "approach": [7.0, 0.51, -2.25]},
+    "mother_diary": {"position": [-10.0, 5.595, 6.5], "model": "mother_diary", "width": 0.31, "approach": [-9.9, 4.51, 5.55]},
+    "asylum_record": {"position": [-6, 9.845, -5.7], "paper": true, "approach": [-6.1, 8.51, -4.65]},
+    "father_letter": {"position": [-7.05, 1.305, -4.65], "model": "father_letter", "width": 0.32, "approach": [-6.35, 0.51, -4.25]},
+    "marriage_settlement": {"position": [6.8, 5.335, -3.65], "paper": true, "approach": [6.9, 4.51, -2.8]},
+    "burnt_letter": {"position": [-7.15, 1.305, -4.08], "paper": true, "approach": [-6.35, 0.51, -3.5]}
+  },
+  "bed": {"position": [-6.83, 5.1, 4.6], "approach": [-6.1, 4.51, 4.8]}
+}

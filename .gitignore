@@ -1,0 +1,7 @@
+# 构建产物（build_all.py 可重建，不入仓）
+*.blend
+*.blend1
+manor_walkthrough/assets/
+manor_mystery/tests/
+__pycache__/
+.DS_Store

@@ -1,0 +1,52 @@
+{
+  "wood_floor": {
+    "source": "https://polyhaven.com/a/wood_floor",
+    "license": "CC0",
+    "size_m": 1.7,
+    "maps": {
+      "Diffuse": "wood_floor_Diffuse.jpg",
+      "Rough": "wood_floor_Rough.jpg",
+      "nor_gl": "wood_floor_nor_gl.jpg"
+    }
+  },
+  "red_bricks_02": {
+    "source": "https://polyhaven.com/a/red_bricks_02",
+    "license": "CC0",
+    "size_m": 2.5,
+    "maps": {
+      "Diffuse": "red_bricks_02_Diffuse.jpg",
+      "Rough": "red_bricks_02_Rough.jpg",
+      "nor_gl": "red_bricks_02_nor_gl.jpg"
+    }
+  },
+  "clay_roof_tiles_02": {
+    "source": "https://polyhaven.com/a/clay_roof_tiles_02",
+    "license": "CC0",
+    "size_m": 2.5,
+    "maps": {
+      "Diffuse": "clay_roof_tiles_02_Diffuse.jpg",
+      "Rough": "clay_roof_tiles_02_Rough.jpg",
+      "nor_gl": "clay_roof_tiles_02_nor_gl.jpg"
+    }
+  },
+  "gravel": {
+    "source": "https://polyhaven.com/a/gravel",
+    "license": "CC0",
+    "size_m": 2.0,
+    "maps": {
+      "Diffuse": "gravel_Diffuse.jpg",
+      "Rough": "gravel_Rough.jpg",
+      "nor_gl": "gravel_nor_gl.jpg"
+    }
+  },
+  "plastered_wall_02": {
+    "source": "https://polyhaven.com/a/plastered_wall_02",
+    "license": "CC0",
+    "size_m": 2.23,
+    "maps": {
+      "Diffuse": "plastered_wall_02_Diffuse.jpg",
+      "Rough": "plastered_wall_02_Rough.jpg",
+      "nor_gl": "plastered_wall_02_nor_gl.jpg"
+    }
+  }
+}
